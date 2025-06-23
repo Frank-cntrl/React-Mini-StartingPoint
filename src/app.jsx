@@ -4,8 +4,26 @@ import "./style.css";
 
 const App = () => {
   return (
-    <div className="app">
-      <h1 className="title">Hello World</h1>
+    <div className="grid">
+      <table>
+        <tbody>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+        </tbody>
+      </table> { }
     </div>
   );
 };
